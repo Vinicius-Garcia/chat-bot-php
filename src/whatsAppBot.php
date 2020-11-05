@@ -4,8 +4,8 @@
 class whatsAppBot
 {
     
-    var $APIurl = "https://eu137.chat-api.com/instance191362/"; // recebe a instancia da api
-    var $token = "ze9rukq3bbj867p7";//recebe o token da api
+    var $APIurl = "instance da api"; // recebe a instancia da api
+    var $token = "token da api";//recebe o token da api
 
     public function __construct()
     {
